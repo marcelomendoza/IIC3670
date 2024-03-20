@@ -2,7 +2,7 @@
 Códigos y ejemplos en Python del curso NLP
 
 * Profesor: Marcelo Mendoza
-* Ayudantes: Miguel Fernández, Ariel Reyes, Carlos Muñoz, Felipe Rodríguez
+* Ayudantes: Ariel Reyes (coordinador), Miguel Fernández, Carlos Muñoz, Felipe Rodríguez
 
 * Clases: W:5,6 (BC23); Ayudantía: J:5 (BC25)
 

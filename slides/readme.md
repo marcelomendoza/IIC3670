@@ -1,1 +1,0 @@
-Láminas del curso

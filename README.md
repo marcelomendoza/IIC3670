@@ -4,6 +4,6 @@ Códigos y ejemplos en Python del curso NLP
 * Profesor: Marcelo Mendoza
 * Ayudantes: ?
 
-* Clases: ?
+* Clases: Mi 3-4
 
 2026/2
